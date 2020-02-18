@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Need It" max_length="40" name="x_58872_needit_need_it" sizeclass="3" type="collection">
+        <element label="My new field" max_length="40" name="u_integer_1" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="My new String" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>
